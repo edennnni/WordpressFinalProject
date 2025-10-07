@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2023,
+        "type": "Sedan",
+        "price_per_day": 45.00,
+        "image": "camry.jpg",
+        "features": "Automatic, AC, Bluetooth",
+        "available": true,
+        "is_bestseller": true
+    },
+    {
+        "id": 2,
+        "make": "Honda",
+        "model": "CR-V",
+        "year": 2023,
+        "type": "SUV",
+        "price_per_day": 65.00,
+        "image": "crv.jpg",
+        "features": "AWD, Automatic, AC, GPS",
+        "available": true,
+        "is_bestseller": true
+    },
+    {
+        "id": 3,
+        "make": "Ford",
+        "model": "F-150",
+        "year": 2023,
+        "type": "Truck",
+        "price_per_day": 85.00,
+        "image": "f150.jpg",
+        "features": "4WD, Automatic, AC, Towing",
+        "available": true,
+        "is_bestseller": true
+    },
+    {
+        "id": 4,
+        "make": "Tesla",
+        "model": "Model 3",
+        "year": 2023,
+        "type": "Electric",
+        "price_per_day": 95.00,
+        "image": "model3.jpg",
+        "features": "Electric, Autopilot, Premium",
+        "available": true,
+        "is_bestseller": true
+    },
+    {
+        "id": 5,
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2022,
+        "type": "Sedan",
+        "price_per_day": 40.00,
+        "image": "malibu.jpg",
+        "features": "Automatic, AC, Bluetooth",
+        "available": true,
+        "is_bestseller": false
+    },
+    {
+        "id": 6,
+        "make": "Jeep",
+        "model": "Wrangler",
+        "year": 2023,
+        "type": "SUV",
+        "price_per_day": 75.00,
+        "image": "wrangler.jpg",
+        "features": "4WD, Manual, AC",
+        "available": true,
+        "is_bestseller": false
+    },
+    {
+        "id": 7,
+        "make": "BMW",
+        "model": "3 Series",
+        "year": 2023,
+        "type": "Sedan",
+        "price_per_day": 90.00,
+        "image": "bmw3.jpg",
+        "features": "Luxury, Automatic, Premium Sound",
+        "available": true,
+        "is_bestseller": true
+    },
+    {
+        "id": 8,
+        "make": "Mercedes",
+        "model": "GLE",
+        "year": 2023,
+        "type": "SUV",
+        "price_per_day": 110.00,
+        "image": "gle.jpg",
+        "features": "Luxury, AWD, Premium Interior",
+        "available": true,
+        "is_bestseller": true
+    }
+]
