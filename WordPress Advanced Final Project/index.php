@@ -1,7 +1,9 @@
 <?php
+
+
 $pageTitle = 'Home';
-require_once 'includes/functions.php';
-require_once 'includes/header.php';
+require_once __DIR__ . '/functions.php';
+require_once __DIR__ . '/header.php';
 
 $carTypes = getCarTypes();
 $carMakes = getCarMakes();
@@ -188,4 +190,4 @@ $featuredCars = getBestsellerCars();
     </div>
 </section>
 
-<?php require_once 'includes/footer.php'; ?>
+<?php require_once __DIR__ . '/footer.php'; ?> 
