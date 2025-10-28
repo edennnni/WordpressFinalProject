@@ -4,7 +4,6 @@
 $pageTitle = 'Home';
 require_once __DIR__ . '/functions.php';
 require_once __DIR__ . '/header.php';
-
 $carTypes = getCarTypes();
 $carMakes = getCarMakes();
 $featuredCars = getBestsellerCars();
@@ -46,7 +45,6 @@ $featuredCars = getBestsellerCars();
     </div>
 </section>
 
- Features Section 
 <section class="features">
     <div class="container">
         <div class="features-grid">
@@ -85,7 +83,6 @@ $featuredCars = getBestsellerCars();
     </div>
 </section>
 
- Categories Section 
 <section class="categories">
     <div class="container">
         <h2 class="section-title">Browse by Category</h2>
@@ -119,7 +116,6 @@ $featuredCars = getBestsellerCars();
     </div>
 </section>
 
- Featured Cars Section 
 <section class="featured-cars">
     <div class="container">
         <h2 class="section-title">Featured Vehicles</h2>
